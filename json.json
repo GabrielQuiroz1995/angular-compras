@@ -1,0 +1,21 @@
+{
+  "ParmTasas":{
+  "Distribuidor":21,
+  "Sucursal":706,
+  "Marca":15,
+  "Modelo":63,
+  "Version":16,
+  "TipoVehiculo":1,
+  "SegmentoValor":2,
+  "SegmentoUso":1,
+  "Estado":1,
+  "ValorFinanciado":4500,
+  "SegCliente":1,
+  "NivelRiesgo":3,
+  "Modulo":101,
+  "TipoOp":1,
+  "Plazo":24,
+  "FechaValor":"2023-07-07",
+  "Canal":"FINEX"
+  }
+}
